@@ -1,0 +1,23 @@
+[
+    {
+        "companyName": "DavidIt",
+        "managerName": "David",
+        "location": "Dhaka",
+        "companyWebsite": "www.davidit.com",
+        "jobPosts": "Front End Web Developer"
+    },
+    {
+        "companyName": "ParvezDataSystem",
+        "managerName": "Parvez",
+        "location": "Dhaka",
+        "companyWebsite": "www.parvezdatasystem.com",
+        "jobPosts": "Node Js Developer"
+    },
+    {
+        "companyName": "paponIt",
+        "managerName": "Papon",
+        "location": "Dhaka",
+        "companyWebsite": "www.paponit.com",
+        "jobPosts": "React Developer"
+    }
+]

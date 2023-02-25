@@ -1,0 +1,13 @@
+[
+    {
+        "email": "parvez@test.com",
+        "password": "123456#A",
+        "confirmPassword": "123456#A",
+        "firstName": "parvez",
+        "lastName": "Islam",
+        "shippingAddress": "944 osthir Street",
+        "presentAddress": "944 osthir Street",
+        "permanentAddress": "944 Russell Street",
+        "imageURL": "https://www.pinkvilla.com/imageresize/aamir-khan-upcoming-films.jpg?width=752&t=pvorg"
+    }
+]

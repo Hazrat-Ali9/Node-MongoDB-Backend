@@ -1,0 +1,47 @@
+[
+    {
+        "jobTitle":"Full Stack Developer",
+        "jobPosition":"junior Developer",
+        "salary":"120 $",
+        "jobNature":"Full Time",
+        "companyInfo":"David It House",
+        "jobDescription":"A full stack developer is a web developer or engineer who works with both the front and back ends of a website or application. In this sense, they provide an end-to-end service, and can be involved in projects that involve databases and building user-facing websites.",
+        "deadline":"10 days"
+      },
+    {
+        "jobTitle":" React Developer",
+        "jobPosition":"Senior Developer",
+        "salary":"120 $",
+        "jobNature":"Full Time",
+        "companyInfo":"David It House",
+        "jobDescription":"Five Year Experience of React.work designing section",
+        "deadline":"10 days"
+      },
+    {
+        "jobTitle":" Node Js Developer",
+        "jobPosition":"senior Developer",
+        "salary":"120 $",
+        "jobNature":"Full Time",
+        "companyInfo":"David It House",
+        "jobDescription":"Work Api Server,Cloud Management build user interface",
+        "deadline":"10 days"
+      },
+    {
+        "jobTitle":" Python Developer",
+        "jobPosition":"junior Developer",
+        "salary":"120 $",
+        "jobNature":"Full Time",
+        "companyInfo":"David It House",
+        "jobDescription":"A full stack developer is a web developer or engineer who works with both the front and back ends of a website or application. In this sense, they provide an end-to-end service, and can be involved in projects that involve databases and building user-facing websites.",
+        "deadline":"10 days"
+      },
+    {
+        "jobTitle":" java Script Developer",
+        "jobPosition":"junior Developer",
+        "salary":"120 $",
+        "jobNature":"Full Time",
+        "companyInfo":"David It House",
+        "jobDescription":"A full stack developer is a web developer or engineer who works with both the front and back ends of a website or application. In this sense, they provide an end-to-end service, and can be involved in projects that involve databases and building user-facing websites.",
+        "deadline":"10 days"
+      }
+]

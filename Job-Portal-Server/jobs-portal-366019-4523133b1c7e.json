@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "jobs-portal-366019",
+  "private_key_id": "4523133b1c7e8d7eb28867c8d2883306341bc567",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDt9Yo2tsDGs9A2\nlrsS6dZxUdfPeIzHp0zjh//HxobTb6vubDvOfLG7iNp57Pvhoca1k2+bFbPlob5R\nUjHtIEdoXc/M/gy/RBmY8KqzsB4dyqOxHLqs6SnXHxkHxLnfswa6So07GslsJB3h\n+4+T5oNKPh+WN4YBr9GyRenxqwJ6QtRU8qIwc5dgMzEdl9hcSNHoMVQmtPeSny+s\npH/eGd4ysSe6A0nmr8DO0qcwKTIk56j/HGhBW4uCBq9iOl/RCSxA+XxmPA2Fxhgi\neSFCsO7q0450B7LTaS7Bq7yNXbw/1CgFKlsMvu01i1312LCJzG0kVwdCb2D7fsEG\nQ/JC4gu5AgMBAAECggEABJOw1ZSo4Hwy1Kqhcm+kD9CBuK79BzXlsykpdMGx6W/I\nDu6O7RhwezbP8UvV0ZfQ3dXLg2A/ckWM3B0l0nBTi0jQT2/cqyefoJWoH4tonYz+\nnnBwOz/uAvdz80EtNuXSFZkg6Qp+0Lk2SBjUdhqXOyFMLnxG1Adk6UYcuzNyuWBV\nnBHRpKqPdnaRvRJVZbC5Ynum8w7SBT7MPlL/4RMurKuYZevpTDsXdjtvlBeBHVk6\nmVyjoFes3p+VB+LWmg8uJ6tqCi2dXMMRqcpZivuerPkNjqIgKsr/TuW8Ktlfq7O/\n9ZNKX3OunOoshxzRuQ/QVINjzTYfMmJ/TIpd7gv6IQKBgQD9pJN0YSXjf8CJbQqe\nOtceUvJ5IvsQssXy0eYpqxUPBkrlW5IlwS5GbwPfkc9MCO9mqfKakP0UjAJVqvog\nnCF5s8KN+oM29D5N2L4xIRatt1rDhfHTJeKBC+WZCvYvDCr5GVm38lxWUxLZnlzL\nYTOIZQLktve/8ZT9sBFmOXDeGQKBgQDwK6beKzFp2L2wTPtf2Wh6yVahZYrjXcQI\nx7SbQDLRLvfGOndtHFAqMvI7R5UMZUyTjJVIBwJUeiBpss9D34JBEJTB6LMIkeZX\nrqdMO0KSyhuT9y3EwF8Qf+NJFr4yuC7ZgfbYUEBWztCIew4o7eXGjEIfh1hN91m4\nS2zuoukOoQKBgQCl5qmT658OqJbUzH+vcykVaoeyeBDjoSscYfI7uu0xQJpoXna/\nPxX3d9F+wC5ou0drTSmjs8X1VIaKZiTog3bZ1ZwhpYOBxEukO2pbVBszUMSLMucz\nhooagh+Q9LyFlV3eRJiMWnfO9tNTh+OGG3PLeNZlps9xuqALNsiKpnOOsQKBgEYT\nVoLoc2iA1wgDziyvUK7S5DX/XMDucO5m5qmN18X1QFJUaNgrNLC7YLYvMqwFOoyq\nrjvv35wqbh6pD5SsOGMnpV/Wt7Y+a8kVqraxa8FMuzM3IeGQh6xWxEhlHGXMG89W\n/mErOTqa6XmI/h6vGyYNcpWkdf15uHHvf/85BWtBAoGAT3TeEZiSAmH8H3eSzUOj\nsOzh9zQBQPi4ijF5wo4gpRFED+Bz9AovMwJSbh6RKM24Wz8OhtNkw+Wa2Ld/S+Qp\nKQiwHCsztyp+wyYRYdnYLagWgiZAQBUclNARQpUgg2lEsXOQujUh15URbBRzY3IP\nH2XzhCX6ywolI1oZB8xDEFM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "parvezislam@jobs-portal-366019.iam.gserviceaccount.com",
+  "client_id": "117420170807910653354",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/parvezislam%40jobs-portal-366019.iam.gserviceaccount.com"
+}
