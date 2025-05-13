@@ -1,7 +1,7 @@
 const express = require("express");
 const app = express();
 const cors = require("cors");
-
+// apps js
 
 //middlewares
 app.use(express.json());
