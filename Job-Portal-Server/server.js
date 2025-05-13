@@ -23,7 +23,7 @@ const kMonitor = Symbol('monitor');
 /** @internal */
 class Server extends mongo_types_1.TypedEventEmitter {
     /**
-     * Create a server
+     * Create a Server
      */
     constructor(topology, description, options) {
         super();
