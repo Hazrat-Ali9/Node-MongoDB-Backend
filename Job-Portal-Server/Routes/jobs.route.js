@@ -5,7 +5,7 @@ const jobController = require("../controllers/job.controller");
 const authorization = require("../middleware/authorization");
 const pdfUploader = require("../middleware/pdfUploader");
 const verifyToken = require("../middleware/verifyToken");
-
+// Jobs Route
 router.route("/jobs/highest-paid-jobs").get(jobController.getHighestPaidJobs);
 
 router.route("/jobs/most-applied-jobs").get(jobController.getMostAppliedJobs);
