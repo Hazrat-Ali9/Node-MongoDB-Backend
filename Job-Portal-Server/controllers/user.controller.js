@@ -221,7 +221,7 @@ exports.promoteUserRole = async (req, res) => {
         error: "User is already a candidate",
       });
     }
-
+// User Controller
     if (req.body.role === "Admin" || req.body.role === "Hiring-Manager" || req.body.role === "Candidate") {
       user.role = req.body.role;
 
