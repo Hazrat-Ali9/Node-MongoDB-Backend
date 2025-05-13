@@ -4,7 +4,7 @@ const authorization = require("../middleware/authorization");
 const verifyToken = require("../middleware/verifyToken");
 const router = express.Router();
 
-
+// User Route
 router.post("/signup", userController.signup);
 router.get("/signup/confirmation/:token", userController.confirmEmail);
 
